@@ -15,3 +15,8 @@ Adding the recommended commands (which do work when used in the windows command 
 as an origin-fix.bat in the autostart folder didn't work.
 
 *On Windows Server 2012 you can go to the startup folder by pressing Windows-R and running the command "shell:Startup".*
+
+
+__Test #2__
+
+add a "sleep x" command and test various values
