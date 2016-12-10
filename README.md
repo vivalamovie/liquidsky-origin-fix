@@ -23,11 +23,11 @@ add a "sleep x" command and test various values
 
 Didn't work.
 
-__Test #3 - seems to work__
+__Test #3 - seems to work so far__
 
 Open gpedit.msc and add the origin-fix.bat to startup and shutdown at Local Computer Policy/Computer Configuration/Windows Settings/Scripts (Startup/Shutdown)
 
-Survived the first reboot. This could be a permanent fix.
+Survived the first few reboots. May cause the client to fix when ending a session.
 
 *More results will follow.*
 
