@@ -27,4 +27,6 @@ __Test #3__
 
 Open gpedit.msc and add the origin-fix.bat to startup and shutdown at Local Computer Policy/Computer Configuration/Windows Settings/Scripts (Startup/Shutdown)
 
-*Results will follow.*
+Survived the first reboot. This could be a permanent fix.
+
+*More results will follow.*
