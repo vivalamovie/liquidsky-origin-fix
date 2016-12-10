@@ -9,7 +9,7 @@ http://community.liquidsky.tv/t/installed-origin-cant-connect/267/10
 
 Adding the recommended commands (which do work when used in the windows command line / shell after the Origin installation)
 
-    net stop "Origin Web Helper Service
+    net stop "Origin Web Helper Service"
     sc config "Origin Web Helper Service" start= demand
 
 as an origin-fix.bat in the autostart folder didn't work.
