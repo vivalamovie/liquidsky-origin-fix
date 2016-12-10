@@ -23,7 +23,7 @@ add a "sleep x" command and test various values
 
 Didn't work.
 
-__Test #3__
+__Test #3 - seems to work__
 
 Open gpedit.msc and add the origin-fix.bat to startup and shutdown at Local Computer Policy/Computer Configuration/Windows Settings/Scripts (Startup/Shutdown)
 
