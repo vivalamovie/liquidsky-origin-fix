@@ -30,3 +30,5 @@ Open gpedit.msc and add the origin-fix.bat to startup and shutdown at Local Comp
 Survived the first reboot. This could be a permanent fix.
 
 *More results will follow.*
+
+If you're testing this, I'd be happy to get info about your experience at info@vivalamovie.com
