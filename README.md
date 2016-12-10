@@ -1,5 +1,5 @@
 # liquidsky-origin-fix
-Working on a fix for blocked access after automatic Origin updates on LiquidSky Cloud Gaming PCs
+Working on a fix for blocked access after installing or using automatic updates with Origin on LiquidSky Cloud Gaming PCs
 
 __Test #1 - failed__
 
