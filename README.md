@@ -27,7 +27,7 @@ __Test #3 - seems to work so far__
 
 Open gpedit.msc and add the origin-fix.bat to startup and shutdown at Local Computer Policy/Computer Configuration/Windows Settings/Scripts (Startup/Shutdown)
 
-Survived the first few reboots. May cause the client to crash when ending a session. But the crashes could also be caused by heavy server use this weekend...
+Survived fresh installation and the first few reboots.
 
 *More results will follow.*
 
