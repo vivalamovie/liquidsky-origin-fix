@@ -1,3 +1,8 @@
+    Note: Since a completely new version is out, this should be obsolete.
+
+
+
+
 # liquidsky-origin-fix
 Working on a fix for blocked access after installing or using automatic updates with Origin on LiquidSky Cloud Gaming PCs
 
