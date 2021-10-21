@@ -34,6 +34,7 @@ Open gpedit.msc and add the origin-fix.bat to startup and shutdown at Local Comp
 
 Survived fresh installation and the first few reboots.
 
-*More results will follow.*
+*Eventually they changed the system and it was fixed permanently.*
 
-If you're testing this, I'd be happy to get info about your experience at info@vivalamovie.com
+What happened to the service:
+https://en.wikipedia.org/wiki/LiquidSky
